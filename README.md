@@ -1,6 +1,5 @@
 # IPv4_Calculator
 ## If entered input are incorrect the program may work incorrect
-Incorrect input 
 usage:python ip_calc.py                              
 
 Input:                           
